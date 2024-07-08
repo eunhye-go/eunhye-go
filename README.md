@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=360&text=Eunhye%27s+Github&fontSize=70&fontAlign=50&fontAlignY=50&desc=Welcome+%3A%29&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=360&text=Eunhye%27s+Github&fontColor=#ffd400&fontSize=70&fontAlign=50&fontAlignY=50&desc=Welcome+%3A%29&descSize=20&descAlign=50&descAlignY=60)
 <!--
 **eunhye-go/eunhye-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
